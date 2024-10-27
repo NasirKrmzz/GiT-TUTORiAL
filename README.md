@@ -33,7 +33,7 @@ Bu repoda, Git'in ne olduğunu ve Git komutlarının nasıl kullanıldığını 
 
 Git komutlarına dair kapsamlı açıklamalara, kendi **gist** hesabımdan ulaşabilirsiniz. Aşağıdaki bağlantıya tıklayarak göz atabilirsiniz:
 
-# 💎 [Git Komutları - GİST Hesabım](https://github.com/NasirKrmzz/GiT-TUTORiAL)
+# 💎 [Git Komutları](https://gist.github.com/NasirKrmzz/7577419dd8d9d4792f2e07e3699cbaa8)
 
 ---
 
